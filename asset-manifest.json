@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BrainsKart/static/css/main.57fc8dcb.chunk.css",
+    "main.js": "/BrainsKart/static/js/main.eacb5dbd.chunk.js",
+    "main.js.map": "/BrainsKart/static/js/main.eacb5dbd.chunk.js.map",
+    "runtime-main.js": "/BrainsKart/static/js/runtime-main.8bab1f7f.js",
+    "runtime-main.js.map": "/BrainsKart/static/js/runtime-main.8bab1f7f.js.map",
+    "static/css/2.d52ca1df.chunk.css": "/BrainsKart/static/css/2.d52ca1df.chunk.css",
+    "static/js/2.395e874b.chunk.js": "/BrainsKart/static/js/2.395e874b.chunk.js",
+    "static/js/2.395e874b.chunk.js.map": "/BrainsKart/static/js/2.395e874b.chunk.js.map",
+    "index.html": "/BrainsKart/index.html",
+    "precache-manifest.c0a5e618864a05935ebaa7ff34ec4b6f.js": "/BrainsKart/precache-manifest.c0a5e618864a05935ebaa7ff34ec4b6f.js",
+    "service-worker.js": "/BrainsKart/service-worker.js",
+    "static/css/2.d52ca1df.chunk.css.map": "/BrainsKart/static/css/2.d52ca1df.chunk.css.map",
+    "static/css/main.57fc8dcb.chunk.css.map": "/BrainsKart/static/css/main.57fc8dcb.chunk.css.map",
+    "static/js/2.395e874b.chunk.js.LICENSE.txt": "/BrainsKart/static/js/2.395e874b.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/BrainsKart/static/media/arrow_right.d9ccc77c.svg",
+    "static/media/font-awesome-5.8.1.css": "/BrainsKart/static/media/fa-solid-900.f9b85c94.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bab1f7f.js",
+    "static/css/2.d52ca1df.chunk.css",
+    "static/js/2.395e874b.chunk.js",
+    "static/css/main.57fc8dcb.chunk.css",
+    "static/js/main.eacb5dbd.chunk.js"
+  ]
+}
