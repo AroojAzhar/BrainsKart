@@ -1,0 +1,14 @@
+[0922/160900.800:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/160901.128:ERROR:exception_snapshot_win.cc(100)] thread ID 8816 not found in process
+[0922/160905.104:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: Access is denied. (0x80070005)
+[0922/160905.105:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[0922/160905.105:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0922/160905.122:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1e2a7a3f990 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/154108.923:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\asus\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\76be1f4d-a02a-4ad9-9843-32469d19fbe0: The system cannot find the path specified. (0x3)
+[1017/154109.041:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1018/212104.742:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1019/151327.260:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1019/222409.937:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/181517.381:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1021/231303.778:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1023/185816.173:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

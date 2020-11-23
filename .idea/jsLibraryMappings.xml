@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{first-app/node_modules}" />
+    <file url="PROJECT" libraries="{@types/bcryptjs, @types/bootstrap, @types/bootstrap-colorpicker, @types/express, @types/fontkit, @types/gravatar, @types/javascript-astar, @types/jsonwebtoken, @types/react-router-dom, first-app/node_modules}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+  </component>
+</project>
