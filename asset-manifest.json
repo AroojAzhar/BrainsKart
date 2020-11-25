@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/BigBasket/static/css/main.179cc82d.chunk.css",
-    "main.js": "/BigBasket/static/js/main.06ff15ac.chunk.js",
-    "main.js.map": "/BigBasket/static/js/main.06ff15ac.chunk.js.map",
-    "runtime-main.js": "/BigBasket/static/js/runtime-main.5f76739b.js",
-    "runtime-main.js.map": "/BigBasket/static/js/runtime-main.5f76739b.js.map",
-    "static/css/2.c7514348.chunk.css": "/BigBasket/static/css/2.c7514348.chunk.css",
-    "static/js/2.d0f27aeb.chunk.js": "/BigBasket/static/js/2.d0f27aeb.chunk.js",
-    "static/js/2.d0f27aeb.chunk.js.map": "/BigBasket/static/js/2.d0f27aeb.chunk.js.map",
-    "index.html": "/BigBasket/index.html",
-    "static/css/2.c7514348.chunk.css.map": "/BigBasket/static/css/2.c7514348.chunk.css.map",
-    "static/css/main.179cc82d.chunk.css.map": "/BigBasket/static/css/main.179cc82d.chunk.css.map",
-    "static/js/2.d0f27aeb.chunk.js.LICENSE.txt": "/BigBasket/static/js/2.d0f27aeb.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/BigBasket/static/media/arrow_right.f7c6ac6d.svg",
-    "static/media/font-awesome-5.8.1.css": "/BigBasket/static/media/fa-solid-900.ea995b6e.woff2"
+    "main.css": "/BigBasketHooks/static/css/main.7dde9996.chunk.css",
+    "main.js": "/BigBasketHooks/static/js/main.32e5ad61.chunk.js",
+    "main.js.map": "/BigBasketHooks/static/js/main.32e5ad61.chunk.js.map",
+    "runtime-main.js": "/BigBasketHooks/static/js/runtime-main.51c11701.js",
+    "runtime-main.js.map": "/BigBasketHooks/static/js/runtime-main.51c11701.js.map",
+    "static/css/2.f1ca2357.chunk.css": "/BigBasketHooks/static/css/2.f1ca2357.chunk.css",
+    "static/js/2.d0f27aeb.chunk.js": "/BigBasketHooks/static/js/2.d0f27aeb.chunk.js",
+    "static/js/2.d0f27aeb.chunk.js.map": "/BigBasketHooks/static/js/2.d0f27aeb.chunk.js.map",
+    "index.html": "/BigBasketHooks/index.html",
+    "static/css/2.f1ca2357.chunk.css.map": "/BigBasketHooks/static/css/2.f1ca2357.chunk.css.map",
+    "static/css/main.7dde9996.chunk.css.map": "/BigBasketHooks/static/css/main.7dde9996.chunk.css.map",
+    "static/js/2.d0f27aeb.chunk.js.LICENSE.txt": "/BigBasketHooks/static/js/2.d0f27aeb.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/BigBasketHooks/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/font-awesome-5.8.1.css": "/BigBasketHooks/static/media/fa-solid-900.ea995b6e.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f76739b.js",
-    "static/css/2.c7514348.chunk.css",
+    "static/js/runtime-main.51c11701.js",
+    "static/css/2.f1ca2357.chunk.css",
     "static/js/2.d0f27aeb.chunk.js",
-    "static/css/main.179cc82d.chunk.css",
-    "static/js/main.06ff15ac.chunk.js"
+    "static/css/main.7dde9996.chunk.css",
+    "static/js/main.32e5ad61.chunk.js"
   ]
 }
