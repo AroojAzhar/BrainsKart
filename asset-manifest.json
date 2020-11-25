@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/BrainsKart/static/css/main.57fc8dcb.chunk.css",
-    "main.js": "/BrainsKart/static/js/main.eacb5dbd.chunk.js",
-    "main.js.map": "/BrainsKart/static/js/main.eacb5dbd.chunk.js.map",
-    "runtime-main.js": "/BrainsKart/static/js/runtime-main.8bab1f7f.js",
-    "runtime-main.js.map": "/BrainsKart/static/js/runtime-main.8bab1f7f.js.map",
-    "static/css/2.d52ca1df.chunk.css": "/BrainsKart/static/css/2.d52ca1df.chunk.css",
-    "static/js/2.395e874b.chunk.js": "/BrainsKart/static/js/2.395e874b.chunk.js",
-    "static/js/2.395e874b.chunk.js.map": "/BrainsKart/static/js/2.395e874b.chunk.js.map",
-    "index.html": "/BrainsKart/index.html",
-    "precache-manifest.c0a5e618864a05935ebaa7ff34ec4b6f.js": "/BrainsKart/precache-manifest.c0a5e618864a05935ebaa7ff34ec4b6f.js",
-    "service-worker.js": "/BrainsKart/service-worker.js",
-    "static/css/2.d52ca1df.chunk.css.map": "/BrainsKart/static/css/2.d52ca1df.chunk.css.map",
-    "static/css/main.57fc8dcb.chunk.css.map": "/BrainsKart/static/css/main.57fc8dcb.chunk.css.map",
-    "static/js/2.395e874b.chunk.js.LICENSE.txt": "/BrainsKart/static/js/2.395e874b.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/BrainsKart/static/media/arrow_right.d9ccc77c.svg",
-    "static/media/font-awesome-5.8.1.css": "/BrainsKart/static/media/fa-solid-900.f9b85c94.woff2"
+    "main.css": "/BigBasket/static/css/main.179cc82d.chunk.css",
+    "main.js": "/BigBasket/static/js/main.06ff15ac.chunk.js",
+    "main.js.map": "/BigBasket/static/js/main.06ff15ac.chunk.js.map",
+    "runtime-main.js": "/BigBasket/static/js/runtime-main.5f76739b.js",
+    "runtime-main.js.map": "/BigBasket/static/js/runtime-main.5f76739b.js.map",
+    "static/css/2.c7514348.chunk.css": "/BigBasket/static/css/2.c7514348.chunk.css",
+    "static/js/2.d0f27aeb.chunk.js": "/BigBasket/static/js/2.d0f27aeb.chunk.js",
+    "static/js/2.d0f27aeb.chunk.js.map": "/BigBasket/static/js/2.d0f27aeb.chunk.js.map",
+    "index.html": "/BigBasket/index.html",
+    "static/css/2.c7514348.chunk.css.map": "/BigBasket/static/css/2.c7514348.chunk.css.map",
+    "static/css/main.179cc82d.chunk.css.map": "/BigBasket/static/css/main.179cc82d.chunk.css.map",
+    "static/js/2.d0f27aeb.chunk.js.LICENSE.txt": "/BigBasket/static/js/2.d0f27aeb.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/BigBasket/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/font-awesome-5.8.1.css": "/BigBasket/static/media/fa-solid-900.ea995b6e.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bab1f7f.js",
-    "static/css/2.d52ca1df.chunk.css",
-    "static/js/2.395e874b.chunk.js",
-    "static/css/main.57fc8dcb.chunk.css",
-    "static/js/main.eacb5dbd.chunk.js"
+    "static/js/runtime-main.5f76739b.js",
+    "static/css/2.c7514348.chunk.css",
+    "static/js/2.d0f27aeb.chunk.js",
+    "static/css/main.179cc82d.chunk.css",
+    "static/js/main.06ff15ac.chunk.js"
   ]
 }
